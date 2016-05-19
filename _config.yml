@@ -2,6 +2,7 @@ name: visionbychoice
 favicon: null
 layout_spectrum: 0.3954649385996163
 typography_spectrum: 0.2363155207131058
+title: Vision By Choice
 cta:
   domain: null
   bucket: null
