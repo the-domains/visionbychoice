@@ -1,6 +1,6 @@
-name: Landscape
+name: visionbychoice
 favicon: null
-layout_spectrum: 0.25101
+layout_spectrum: 0.73886
 typography_spectrum: 0.2363155207131058
 title: Vision By Choice
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.2995183614548296
+  rhythmicContrast: 0.5
 purpose: []
